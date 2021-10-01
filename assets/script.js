@@ -1,7 +1,7 @@
   // display current day on page
   $('#currentDay').text(moment().format('dddd, MMMM Do'));
 
-// creat a function for the save event where there is notification and value is saved to local storage
+// jquery creat a function for the save event where there is notification and value is saved to local storage
 $(document). ready(function() {
   // save button on click function that will do the not, save when clicked. 
   $(".saveBtn").on("click", function () {
