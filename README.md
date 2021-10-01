@@ -7,4 +7,4 @@
 ## ## Project Live Website
   The coding quiz can be found [here](https://kalvinn361.github.io/JavaScript-Code-Quiz/)
 
-![Screenshot](codequiz.png)
+![Screenshot](Work-calander.png)
