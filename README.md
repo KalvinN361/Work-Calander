@@ -5,6 +5,6 @@
   The first thing i added in the homework was the $('#currentDay').text(moment().format('dddd, MMMM Do')); function to display the current day/date at the top of the page. The next thing I did was add classes to blocks based on the current time so that past, present, and future were color coded differently. Within each of these blocks, the user could save the text locally so when the page is refreshed, the event will stay on the page. 
   
 ## ## Project Live Website
-The day work-calander can be found [here](https://kalvinn361.github.io/JavaScript-Code-Quiz/)
+The day work-calander can be found [here](https://kalvinn361.github.io/Work-Calander/)
 
 ![Screenshot](Work-calander.png)
